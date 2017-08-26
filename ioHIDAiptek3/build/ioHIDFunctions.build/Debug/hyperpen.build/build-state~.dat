@@ -1,0 +1,208 @@
+Thyperpen
+v7
+r0
+t340741691.850234
+cCheck dependencies
+cCompileC build/ioHIDFunctions.build/Debug/hyperpen.build/Objects-normal/x86_64/main.o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004CAA740400000000002527C8
+t1286239236
+s2435016
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004C23BF2D00000000000005FF
+t1277411117
+s1535
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C239DAB0000000000000AF4
+t1277402539
+s2804
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004CAA7404000000000001A854
+t1286239236
+s108628
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/CarbonCore.h
+c000000004C23A4E20000000000000F0C
+t1277404386
+s3852
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOBSD.h
+c000000004C23994600000000000006C2
+t1277401414
+s1730
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+c000000004C23A0120000000000012048
+t1277403154
+s73800
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/hid/IOHIDLib.h
+c000000004C23A0110000000000000609
+t1277403153
+s1545
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/hidsystem/IOHIDShared.h
+c000000004C23A32E00000000000032D7
+t1277403950
+s13015
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/serial/IOSerialKeys.h
+c000000004C239B710000000000000B28
+t1277401969
+s2856
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/usb/IOUSBLib.h
+c000000004C23BE82000000000002C29F
+t1277410946
+s180895
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004CAA7405000000000003CE34
+t1286239237
+s249396
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/errno.h
+c000000004BBD2CE900000000000003EB
+t1270689001
+s1003
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/fcntl.h
+c000000004BBD2CE900000000000003EA
+t1270689001
+s1002
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/paths.h
+c000000004BBD2CE90000000000001067
+t1270689001
+s4199
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/ioctl.h
+c000000004C239946000000000000116C
+t1277401414
+s4460
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/param.h
+c000000004C23994700000000000027BE
+t1277401415
+s10174
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/select.h
+c000000004C23994700000000000016A2
+t1277401415
+s5794
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/time.h
+c000000004C2399480000000000001E17
+t1277401416
+s7703
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sysexits.h
+c000000004BBD2CE90000000000001560
+t1270689001
+s5472
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/termios.h
+c000000004BBD2CE900000000000004D4
+t1270689001
+s1236
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E2085850000000000782350
+t1310754181
+s7873360
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Debug/ioHIDFunctions
+t1318785303
+s29512
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Debug/hyperpen.build/Objects-normal/x86_64/ioHIDFunctions.LinkFileList
+c000000004E9F16BB000000000000007B
+t1319048891
+s123
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Debug/hyperpen.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c
+c000000004E9F16BB0000000000008E91
+t1319048891
+s36497
+i<stdio.h>
+i<string.h>
+i<unistd.h>
+i<fcntl.h>
+i<sys/ioctl.h>
+i<errno.h>
+i<paths.h>
+i<termios.h>
+i<sysexits.h>
+i<sys/param.h>
+i<sys/select.h>
+i<sys/time.h>
+i<CarbonCore/CarbonCore.h>
+i<CoreFoundation/CoreFoundation.h>
+i<Carbon/Carbon.h>
+i<IOKit/IOKitLib.h>
+i<IOKit/hid/IOHIDLib.h>
+i<IOKit/serial/IOSerialKeys.h>
+i<IOKit/IOBSD.h>
+i<IOKit/usb/IOUSBLib.h>
+i<IOKit/hidsystem/IOHIDShared.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies340741691#340741691#0(0"0(0#1#0"8600193312#0"0#
+
+CCompileC build/ioHIDFunctions.build/Debug/hyperpen.build/Objects-normal/x86_64/main.o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s340741691.252466
+e340741691.850144
+r0
+xCompileC
+xbuild/ioHIDFunctions.build/Debug/hyperpen.build/Objects-normal/x86_64/main.o
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'theInputReportCallback':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:262: warning: unused variable 'counter'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'main':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1139: warning: passing argument 2 of 'CFSetGetValues' from incompatible pointer type
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1174: error: incompatible type for argument 2 of 'IOHIDDeviceSetReport'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1174: error: too few arguments to function 'IOHIDDeviceSetReport'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1178: error: incompatible type for argument 2 of 'IOHIDDeviceSetReport'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1178: error: too few arguments to function 'IOHIDDeviceSetReport'
+o{standard input}:unknown:Undefined local symbol LC40
+o{standard input}:unknown:Undefined local symbol LC41
+o{standard input}:unknown:Undefined local symbol LC42
+o{standard input}:unknown:Undefined local symbol LC53
+lSLF07#2@60"Compile /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741691#340741691#0(1097"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'theInputReportCallback':/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:262: warning: unused variable 'counter'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'main':/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1139: warning: passing argument 2 of 'CFSetGetValues' from incompatible pointer type/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1174: error: incompatible type for argument 2 of 'IOHIDDeviceSetReport'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1174: error: too few arguments to function 'IOHIDDeviceSetReport'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1178: error: incompatible type for argument 2 of 'IOHIDDeviceSetReport'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1178: error: too few arguments to function 'IOHIDDeviceSetReport'{standard input}:unknown:Undefined local symbol LC40{standard input}:unknown:Undefined local symbol LC41{standard input}:unknown:Undefined local symbol LC42{standard input}:unknown:Undefined local symbol LC536(22@25"Unused variable 'counter'340741691#92#93#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741691#262#0#262#0#19"unused variable '*'0(22@69"Passing argument 2 of 'CFSetGetValues' from incompatible pointer type340741691#259#138#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741691#1139#0#1139#0#56"passing argument * of '*' from incompatible pointer type0(4@58"Incompatible type for argument 2 of 'IOHIDDeviceSetReport'340741691#397#125#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741691#1174#0#1174#0#0"0(4@52"Too few arguments to function 'IOHIDDeviceSetReport'340741691#522#119#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741691#1174#0#1174#0#33"too few arguments to function '*'0(4@58"Incompatible type for argument 2 of 'IOHIDDeviceSetReport'340741691#641#125#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741691#1178#0#1178#0#0"0(4@52"Too few arguments to function 'IOHIDDeviceSetReport'340741691#766#119#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741691#1178#0#1178#0#33"too few arguments to function '*'0(0#0#52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c8636748608#1556"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -gstabs+ -feliminate-unused-debug-symbols -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Debug/hyperpen.build/ioHIDFunctions-generated-files.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Debug/hyperpen.build/ioHIDFunctions-own-target-headers.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Debug/hyperpen.build/ioHIDFunctions-all-target-headers.hmap -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Debug/hyperpen.build/ioHIDFunctions-project-headers.hmap -F/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Debug/include -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Debug/hyperpen.build/DerivedSources/x86_64 -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Debug/hyperpen.build/DerivedSources -c /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c -o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Debug/hyperpen.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Debug/ioHIDFunctions normal x86_64
+r0
+

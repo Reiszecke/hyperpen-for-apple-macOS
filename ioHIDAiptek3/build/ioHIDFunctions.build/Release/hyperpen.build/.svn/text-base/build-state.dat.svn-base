@@ -1,0 +1,357 @@
+Thyperpen
+v7
+r0
+t340741583.991984
+cCheck dependencies
+cCompileC build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/x86_64/main.o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/i386/main.o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/ppc/main.o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c normal ppc c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004CAA740400000000002527C8
+t1286239236
+s2435016
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004C23BF2D00000000000005FF
+t1277411117
+s1535
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C239DAB0000000000000AF4
+t1277402539
+s2804
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004CAA7404000000000001A854
+t1286239236
+s108628
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/CarbonCore.h
+c000000004C23A4E20000000000000F0C
+t1277404386
+s3852
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOBSD.h
+c000000004C23994600000000000006C2
+t1277401414
+s1730
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+c000000004C23A0120000000000012048
+t1277403154
+s73800
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/hid/IOHIDLib.h
+c000000004C23A0110000000000000609
+t1277403153
+s1545
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/hidsystem/IOHIDShared.h
+c000000004C23A32E00000000000032D7
+t1277403950
+s13015
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/serial/IOSerialKeys.h
+c000000004C239B710000000000000B28
+t1277401969
+s2856
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/usb/IOUSBLib.h
+c000000004C23BE82000000000002C29F
+t1277410946
+s180895
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004CAA7405000000000003CE34
+t1286239237
+s249396
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/errno.h
+c000000004BBD2CE900000000000003EB
+t1270689001
+s1003
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/fcntl.h
+c000000004BBD2CE900000000000003EA
+t1270689001
+s1002
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/paths.h
+c000000004BBD2CE90000000000001067
+t1270689001
+s4199
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/ioctl.h
+c000000004C239946000000000000116C
+t1277401414
+s4460
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/param.h
+c000000004C23994700000000000027BE
+t1277401415
+s10174
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/select.h
+c000000004C23994700000000000016A2
+t1277401415
+s5794
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/time.h
+c000000004C2399480000000000001E17
+t1277401416
+s7703
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sysexits.h
+c000000004BBD2CE90000000000001560
+t1270689001
+s5472
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/termios.h
+c000000004BBD2CE900000000000004D4
+t1270689001
+s1236
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E2085850000000000782350
+t1310754181
+s7873360
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release/ioHIDFunctions
+t1319048114
+s75200
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release/ioHIDFunctions.dSYM
+t1319048114
+s102
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/i386/ioHIDFunctions
+t1319048112
+s23164
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/i386/ioHIDFunctions.LinkFileList
+c000000004E9F13AE000000000000007B
+t1319048110
+s123
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/ppc/ioHIDFunctions
+t1319048114
+s21952
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/ppc/ioHIDFunctions.LinkFileList
+c000000004E9F13AE000000000000007A
+t1319048110
+s122
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/ppc/main.o
+t2
+s0
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/x86_64/ioHIDFunctions
+t1319048112
+s23952
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/x86_64/ioHIDFunctions.LinkFileList
+c000000004E9F13AE000000000000007D
+t1319048110
+s125
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c
+c000000004E9F164E0000000000008EA7
+t1319048782
+s36519
+i<stdio.h>
+i<string.h>
+i<unistd.h>
+i<fcntl.h>
+i<sys/ioctl.h>
+i<errno.h>
+i<paths.h>
+i<termios.h>
+i<sysexits.h>
+i<sys/param.h>
+i<sys/select.h>
+i<sys/time.h>
+i<CarbonCore/CarbonCore.h>
+i<CoreFoundation/CoreFoundation.h>
+i<Carbon/Carbon.h>
+i<IOKit/IOKitLib.h>
+i<IOKit/hid/IOHIDLib.h>
+i<IOKit/serial/IOSerialKeys.h>
+i<IOKit/IOBSD.h>
+i<IOKit/usb/IOUSBLib.h>
+i<IOKit/hidsystem/IOHIDShared.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies340741582#340741582#0(0"0(0#1#0"8634435712#0"0#
+
+CCompileC build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/i386/main.o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c normal i386 c com.apple.compilers.gcc.4_2
+s340741582.375306
+e340741583.359621
+r0
+xCompileC
+xbuild/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/i386/main.o
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'theInputReportCallback':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:262: warning: unused variable 'counter'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'PostChangeEvents':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 3 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 4 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 5 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 6 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 7 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 8 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 3 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 4 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 5 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 6 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 7 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 8 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'main':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1140: warning: passing argument 2 of 'CFSetGetValues' from incompatible pointer type
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1175: error: incompatible type for argument 2 of 'IOHIDDeviceSetReport'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1175: error: too few arguments to function 'IOHIDDeviceSetReport'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1179: error: incompatible type for argument 2 of 'IOHIDDeviceSetReport'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1179: error: too few arguments to function 'IOHIDDeviceSetReport'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1110: warning: unused variable 'arrayLength'
+lSLF07#2@60"Compile /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#340741583#0(2653"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'theInputReportCallback':/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:262: warning: unused variable 'counter'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'PostChangeEvents':/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 3 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 4 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 5 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 6 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 7 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 8 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 3 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 4 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 5 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 6 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 7 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 8 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'main':/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1140: warning: passing argument 2 of 'CFSetGetValues' from incompatible pointer type/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1175: error: incompatible type for argument 2 of 'IOHIDDeviceSetReport'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1175: error: too few arguments to function 'IOHIDDeviceSetReport'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1179: error: incompatible type for argument 2 of 'IOHIDDeviceSetReport'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1179: error: too few arguments to function 'IOHIDDeviceSetReport'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1110: warning: unused variable 'arrayLength'19(22@25"Unused variable 'counter'340741583#92#93#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#262#0#262#0#19"unused variable '*'0(22@64"Format '%d' expects type 'int', but argument 3 has type 'SInt32'340741583#271#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#593#0#593#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 4 has type 'SInt32'340741583#403#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#593#0#593#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 5 has type 'SInt32'340741583#535#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#593#0#593#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 6 has type 'SInt32'340741583#667#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#593#0#593#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 7 has type 'SInt32'340741583#799#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#593#0#593#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 8 has type 'SInt32'340741583#931#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#593#0#593#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 3 has type 'SInt32'340741583#1063#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#647#0#647#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 4 has type 'SInt32'340741583#1195#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#647#0#647#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 5 has type 'SInt32'340741583#1327#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#647#0#647#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 6 has type 'SInt32'340741583#1459#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#647#0#647#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 7 has type 'SInt32'340741583#1591#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#647#0#647#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 8 has type 'SInt32'340741583#1723#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#647#0#647#0#56"format '*' expects type '*', but argument * has type '*'0(22@69"Passing argument 2 of 'CFSetGetValues' from incompatible pointer type340741583#1929#138#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1140#0#1140#0#56"passing argument * of '*' from incompatible pointer type0(4@58"Incompatible type for argument 2 of 'IOHIDDeviceSetReport'340741583#2067#125#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1175#0#1175#0#0"0(4@52"Too few arguments to function 'IOHIDDeviceSetReport'340741583#2192#119#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1175#0#1175#0#33"too few arguments to function '*'0(4@58"Incompatible type for argument 2 of 'IOHIDDeviceSetReport'340741583#2311#125#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1179#0#1179#0#0"0(4@52"Too few arguments to function 'IOHIDDeviceSetReport'340741583#2436#119#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1179#0#1179#0#33"too few arguments to function '*'0(22@29"Unused variable 'arrayLength'340741583#2555#98#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1110#0#1110#0#19"unused variable '*'0(0#0#52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c8633923424#1554"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/ioHIDFunctions-generated-files.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/ioHIDFunctions-own-target-headers.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/ioHIDFunctions-all-target-headers.hmap -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/ioHIDFunctions-project-headers.hmap -F/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release/include -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/DerivedSources/i386 -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/DerivedSources -c /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c -o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/i386/main.o1#
+
+CCompileC build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/ppc/main.o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c normal ppc c com.apple.compilers.gcc.4_2
+s340741583.359724
+e340741583.991795
+r0
+xCompileC
+xbuild/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/ppc/main.o
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'theInputReportCallback':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:262: warning: unused variable 'counter'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'PostChangeEvents':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 3 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 4 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 5 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 6 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 7 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 8 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 3 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 4 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 5 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 6 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 7 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 8 has type 'SInt32'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'main':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1140: warning: passing argument 2 of 'CFSetGetValues' from incompatible pointer type
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1175: error: incompatible type for argument 2 of 'IOHIDDeviceSetReport'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1175: error: too few arguments to function 'IOHIDDeviceSetReport'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1179: error: incompatible type for argument 2 of 'IOHIDDeviceSetReport'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1179: error: too few arguments to function 'IOHIDDeviceSetReport'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1110: warning: unused variable 'arrayLength'
+lSLF07#2@60"Compile /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741583#340741583#0(2653"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'theInputReportCallback':/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:262: warning: unused variable 'counter'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'PostChangeEvents':/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 3 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 4 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 5 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 6 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 7 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:593: warning: format '%d' expects type 'int', but argument 8 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 3 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 4 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 5 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 6 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 7 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:647: warning: format '%d' expects type 'int', but argument 8 has type 'SInt32'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'main':/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1140: warning: passing argument 2 of 'CFSetGetValues' from incompatible pointer type/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1175: error: incompatible type for argument 2 of 'IOHIDDeviceSetReport'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1175: error: too few arguments to function 'IOHIDDeviceSetReport'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1179: error: incompatible type for argument 2 of 'IOHIDDeviceSetReport'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1179: error: too few arguments to function 'IOHIDDeviceSetReport'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1110: warning: unused variable 'arrayLength'19(22@25"Unused variable 'counter'340741583#92#93#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#262#0#262#0#19"unused variable '*'0(22@64"Format '%d' expects type 'int', but argument 3 has type 'SInt32'340741583#271#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#593#0#593#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 4 has type 'SInt32'340741583#403#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#593#0#593#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 5 has type 'SInt32'340741583#535#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#593#0#593#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 6 has type 'SInt32'340741583#667#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#593#0#593#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 7 has type 'SInt32'340741583#799#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#593#0#593#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 8 has type 'SInt32'340741583#931#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#593#0#593#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 3 has type 'SInt32'340741583#1063#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#647#0#647#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 4 has type 'SInt32'340741583#1195#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#647#0#647#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 5 has type 'SInt32'340741583#1327#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#647#0#647#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 6 has type 'SInt32'340741583#1459#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#647#0#647#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 7 has type 'SInt32'340741583#1591#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#647#0#647#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 8 has type 'SInt32'340741583#1723#132#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#647#0#647#0#56"format '*' expects type '*', but argument * has type '*'0(22@69"Passing argument 2 of 'CFSetGetValues' from incompatible pointer type340741583#1929#138#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1140#0#1140#0#56"passing argument * of '*' from incompatible pointer type0(4@58"Incompatible type for argument 2 of 'IOHIDDeviceSetReport'340741583#2067#125#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1175#0#1175#0#0"0(4@52"Too few arguments to function 'IOHIDDeviceSetReport'340741583#2192#119#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1175#0#1175#0#33"too few arguments to function '*'0(4@58"Incompatible type for argument 2 of 'IOHIDDeviceSetReport'340741583#2311#125#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1179#0#1179#0#0"0(4@52"Too few arguments to function 'IOHIDDeviceSetReport'340741583#2436#119#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1179#0#1179#0#33"too few arguments to function '*'0(22@29"Unused variable 'arrayLength'340741583#2555#98#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1110#0#1110#0#19"unused variable '*'0(0#0#52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c8634087840#1561"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/ioHIDFunctions-generated-files.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/ioHIDFunctions-own-target-headers.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/ioHIDFunctions-all-target-headers.hmap -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/ioHIDFunctions-project-headers.hmap -F/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release/include -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/DerivedSources/ppc -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/DerivedSources -c /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c -o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/ppc/main.o1#
+
+CCompileC build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/x86_64/main.o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s340741582.374196
+e340741583.381077
+r0
+xCompileC
+xbuild/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/x86_64/main.o
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'theInputReportCallback':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:262: warning: unused variable 'counter'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'main':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1140: warning: passing argument 2 of 'CFSetGetValues' from incompatible pointer type
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1175: error: incompatible type for argument 2 of 'IOHIDDeviceSetReport'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1175: error: too few arguments to function 'IOHIDDeviceSetReport'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1179: error: incompatible type for argument 2 of 'IOHIDDeviceSetReport'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1179: error: too few arguments to function 'IOHIDDeviceSetReport'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1110: warning: unused variable 'arrayLength'
+lSLF07#2@60"Compile /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#340741583#0(983"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'theInputReportCallback':/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:262: warning: unused variable 'counter'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c: In function 'main':/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1140: warning: passing argument 2 of 'CFSetGetValues' from incompatible pointer type/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1175: error: incompatible type for argument 2 of 'IOHIDDeviceSetReport'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1175: error: too few arguments to function 'IOHIDDeviceSetReport'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1179: error: incompatible type for argument 2 of 'IOHIDDeviceSetReport'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1179: error: too few arguments to function 'IOHIDDeviceSetReport'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c:1110: warning: unused variable 'arrayLength'7(22@25"Unused variable 'counter'340741583#92#93#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#262#0#262#0#19"unused variable '*'0(22@69"Passing argument 2 of 'CFSetGetValues' from incompatible pointer type340741583#259#138#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1140#0#1140#0#56"passing argument * of '*' from incompatible pointer type0(4@58"Incompatible type for argument 2 of 'IOHIDDeviceSetReport'340741583#397#125#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1175#0#1175#0#0"0(4@52"Too few arguments to function 'IOHIDDeviceSetReport'340741583#522#119#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1175#0#1175#0#33"too few arguments to function '*'0(4@58"Incompatible type for argument 2 of 'IOHIDDeviceSetReport'340741583#641#125#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1179#0#1179#0#0"0(4@52"Too few arguments to function 'IOHIDDeviceSetReport'340741583#766#119#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1179#0#1179#0#33"too few arguments to function '*'0(22@29"Unused variable 'arrayLength'340741583#885#98#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c340741582#1110#0#1110#0#19"unused variable '*'0(0#0#52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c8634521568#1560"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/ioHIDFunctions-generated-files.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/ioHIDFunctions-own-target-headers.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/ioHIDFunctions-all-target-headers.hmap -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/ioHIDFunctions-project-headers.hmap -F/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release/include -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/DerivedSources/x86_64 -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/DerivedSources -c /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/main.c -o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/x86_64/main.o1#
+
+CCreateUniversalBinary /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release/ioHIDFunctions normal "x86_64 i386 ppc"
+s340740914.329269
+e340740914.379594
+r1
+xCreateUniversalBinary
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release/ioHIDFunctions
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@75"CreateUniversalBinary build/Release/ioHIDFunctions normal "x86_64 i386 ppc"340740914#340740914#0(0"0(0#0#61"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/x86_64 i386 ppc8604486016#556"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2    /usr/bin/lipo -create /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/x86_64/ioHIDFunctions /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/i386/ioHIDFunctions /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/ppc/ioHIDFunctions -output /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release/ioHIDFunctions0#
+
+CGenerateDSYMFile /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release/ioHIDFunctions.dSYM /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release/ioHIDFunctions
+s340740914.379695
+e340740914.465278
+r1
+xGenerateDSYMFile
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release/ioHIDFunctions.dSYM
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release/ioHIDFunctions
+lSLF07#2@79"GenerateDSYMFile build/Release/ioHIDFunctions.dSYM build/Release/ioHIDFunctions340740914#340740914#0(0"0(0#0#74"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release/ioHIDFunctions8605800192#243"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2    /Developer/usr/bin/dsymutil /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release/ioHIDFunctions -o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release/ioHIDFunctions.dSYM0#
+
+CLd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/i386/ioHIDFunctions normal i386
+s340740911.837637
+e340740912.400279
+r1
+xLd
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/i386/ioHIDFunctions
+xnormal
+xi386
+lSLF07#2@135"Link /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/i386/ioHIDFunctions340740911#340740912#0(0"0(0#0#0"8600220960#793"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release -F/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks -filelist /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/i386/ioHIDFunctions.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -framework IOKit -framework AppKit -framework CoreServices -o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/i386/ioHIDFunctions0#
+
+CLd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/ppc/ioHIDFunctions normal ppc
+s340740914.029813
+e340740914.329156
+r1
+xLd
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/ppc/ioHIDFunctions
+xnormal
+xppc
+lSLF07#2@134"Link /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/ppc/ioHIDFunctions340740914#340740914#0(0"0(0#0#0"8600606368#790"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release -F/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks -filelist /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/ppc/ioHIDFunctions.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -framework IOKit -framework AppKit -framework CoreServices -o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/ppc/ioHIDFunctions0#
+
+CLd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/x86_64/ioHIDFunctions normal x86_64
+s340740911.665215
+e340740912.404682
+r1
+xLd
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/x86_64/ioHIDFunctions
+xnormal
+xx86_64
+lSLF07#2@137"Link /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/x86_64/ioHIDFunctions340740911#340740912#0(0"0(0#0#0"30962681237209200#799"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release -F/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/Release -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks -filelist /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/x86_64/ioHIDFunctions.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -framework IOKit -framework AppKit -framework CoreServices -o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek2/build/ioHIDFunctions.build/Release/hyperpen.build/Objects-normal/x86_64/ioHIDFunctions0#
+

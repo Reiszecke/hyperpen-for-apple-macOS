@@ -1,0 +1,40 @@
+10
+
+dir
+103
+http://hyperpen-for-apple.googlecode.com/svn/ioHIDAiptek3/build
+http://hyperpen-for-apple.googlecode.com/svn
+
+
+
+2012-10-12T17:02:41.354022Z
+101
+udo.killermann@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+56ac3d50-884a-a7b3-18bc-c84d48977378
+
+Release
+dir
+
+ioHIDFunctions.build
+dir
+
+Debug
+dir
+
+hyperpenDaemon.build
+dir
+

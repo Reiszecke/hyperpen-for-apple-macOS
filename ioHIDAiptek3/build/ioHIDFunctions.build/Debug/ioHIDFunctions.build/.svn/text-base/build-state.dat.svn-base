@@ -1,0 +1,390 @@
+TioHIDFunctions
+v7
+r0
+t340478108.576483
+cCheck dependencies
+cCompileC build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/main.o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/Debug/ioHIDFunctions normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004CAA740400000000002527C8
+t1286239236
+s2435016
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004CAA74040000000000003A54
+t1286239236
+s14932
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004C23BF2D00000000000005FF
+t1277411117
+s1535
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C239DAB0000000000000AF4
+t1277402539
+s2804
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004CAA7404000000000001A854
+t1286239236
+s108628
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/CarbonCore
+c000000004CAA7404000000000008E67C
+t1286239236
+s583292
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/CarbonCore.h
+c000000004C23A4E20000000000000F0C
+t1277404386
+s3852
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOBSD.h
+c000000004C23994600000000000006C2
+t1277401414
+s1730
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+c000000004C23A0120000000000012048
+t1277403154
+s73800
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/hid/IOHIDLib.h
+c000000004C23A0110000000000000609
+t1277403153
+s1545
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/hidsystem/IOHIDShared.h
+c000000004C23A32E00000000000032D7
+t1277403950
+s13015
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/serial/IOSerialKeys.h
+c000000004C239B710000000000000B28
+t1277401969
+s2856
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/usb/IOUSBLib.h
+c000000004C23BE82000000000002C29F
+t1277410946
+s180895
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004CAA7405000000000003CE34
+t1286239237
+s249396
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/errno.h
+c000000004BBD2CE900000000000003EB
+t1270689001
+s1003
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/fcntl.h
+c000000004BBD2CE900000000000003EA
+t1270689001
+s1002
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/paths.h
+c000000004BBD2CE90000000000001067
+t1270689001
+s4199
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/ioctl.h
+c000000004C239946000000000000116C
+t1277401414
+s4460
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/param.h
+c000000004C23994700000000000027BE
+t1277401415
+s10174
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/select.h
+c000000004C23994700000000000016A2
+t1277401415
+s5794
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/time.h
+c000000004C2399480000000000001E17
+t1277401416
+s7703
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sysexits.h
+c000000004BBD2CE90000000000001560
+t1270689001
+s5472
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/termios.h
+c000000004BBD2CE900000000000004D4
+t1270689001
+s1236
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E2085850000000000782350
+t1310754181
+s7873360
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/Debug/ioHIDFunctions
+t1318785303
+s29512
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/ioHIDFunctions.LinkFileList
+c000000004E8F193B0000000000000080
+t1318000955
+s128
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/main.o
+t1318785303
+s44704
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c
+c000000004E9B1116000000000000939D
+t1318785302
+s37789
+i<stdio.h>
+i<string.h>
+i<unistd.h>
+i<fcntl.h>
+i<sys/ioctl.h>
+i<errno.h>
+i<paths.h>
+i<termios.h>
+i<sysexits.h>
+i<sys/param.h>
+i<sys/select.h>
+i<sys/time.h>
+i<CarbonCore/CarbonCore.h>
+i<CoreFoundation/CoreFoundation.h>
+i<Carbon/Carbon.h>
+i<IOKit/IOKitLib.h>
+i<IOKit/hid/IOHIDLib.h>
+i<IOKit/serial/IOSerialKeys.h>
+i<IOKit/IOBSD.h>
+i<IOKit/usb/IOUSBLib.h>
+i<IOKit/hidsystem/IOHIDShared.h>
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/Debug/ioHIDFunctions
+t1307984731
+s17688
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/ioHIDFunctions.LinkFileList
+c000000004DDF33940000000000000083
+t1306473364
+s131
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/main.o
+t1307984731
+s20568
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/StaticAnalyzer/normal/x86_64/main.plist
+t1307871681
+s18708
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c
+c000000004DF6435B0000000000002998
+t1307984731
+s10648
+i<stdio.h>
+i<string.h>
+i<unistd.h>
+i<fcntl.h>
+i<sys/ioctl.h>
+i<errno.h>
+i<paths.h>
+i<termios.h>
+i<sysexits.h>
+i<sys/param.h>
+i<sys/select.h>
+i<sys/time.h>
+i<CoreFoundation/CoreFoundation.h>
+i<IOKit/IOKitLib.h>
+i<IOKit/hid/IOHIDLib.h>
+i<IOKit/serial/IOSerialKeys.h>
+i<IOKit/IOBSD.h>
+i<IOKit/usb/IOUSBLib.h>
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/Debug/ioHIDFunctions
+t1317839008
+s22928
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/ioHIDFunctions.LinkFileList
+c000000004E8876520000000000000080
+t1317566034
+s128
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/main.o
+t1317839008
+s30680
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c
+c000000004E8CA09F00000000000055B3
+t1317839007
+s21939
+i<stdio.h>
+i<string.h>
+i<unistd.h>
+i<fcntl.h>
+i<sys/ioctl.h>
+i<errno.h>
+i<paths.h>
+i<termios.h>
+i<sysexits.h>
+i<sys/param.h>
+i<sys/select.h>
+i<sys/time.h>
+i<CoreFoundation/CoreFoundation.h>
+i<Carbon/Carbon.h>
+i<IOKit/IOKitLib.h>
+i<IOKit/hid/IOHIDLib.h>
+i<IOKit/serial/IOSerialKeys.h>
+i<IOKit/IOBSD.h>
+i<IOKit/usb/IOUSBLib.h>
+i<IOKit/hidsystem/IOHIDShared.h>
+
+CAnalyze /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c
+s329564481.611424
+e329564481.911597
+r1
+xAnalyze
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:356:2:{356:11-356:66}: warning: Value stored to 'ioReturn' is never read
+o         ioReturn=IOHIDManagerClose(ioHidManager , kIOHIDOptionsTypeNone);
+o         ^        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:334:4:{334:13-341:30}: warning: Value stored to 'ioReturn' is never read
+o                         ioReturn=IOHIDDeviceGetReportWithCallback(deviceRefs[0], 
+o                         ^        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:314:2:{314:14-314:47}: warning: Value stored to 'arrayLength' is never read
+o         arrayLength=CFArrayGetCount(matchingElements);
+o         ^           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:285:2:{285:11-285:70}: warning: Value stored to 'ioReturn' is never read
+o         ioReturn=IOHIDManagerOpen(ioHidManager,kIOHIDOptionsTypeSeizeDevice);
+o         ^        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:358:2:{358:12-358:28}: warning: Pass-by-value argument in function call is undefined
+o         CFRelease(matchingElements);
+o         ^         ~~~~~~~~~~~~~~~~
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:327:20:{327:7-327:20}: warning: The left operand of '==' is a garbage value
+o                 if (ioElementType==kIOHIDElementTypeInput_Button) {     
+o                     ~~~~~~~~~~~~~^
+o6 warnings generated.
+lSLF07#2@62"Analyze /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329564481#329564481#0(1574"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:356:2:{356:11-356:66}: warning: Value stored to 'ioReturn' is never read         ioReturn=IOHIDManagerClose(ioHidManager , kIOHIDOptionsTypeNone);         ^        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:334:4:{334:13-341:30}: warning: Value stored to 'ioReturn' is never read                         ioReturn=IOHIDDeviceGetReportWithCallback(deviceRefs[0],                          ^        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:314:2:{314:14-314:47}: warning: Value stored to 'arrayLength' is never read         arrayLength=CFArrayGetCount(matchingElements);         ^           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:285:2:{285:11-285:70}: warning: Value stored to 'ioReturn' is never read         ioReturn=IOHIDManagerOpen(ioHidManager,kIOHIDOptionsTypeSeizeDevice);         ^        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:358:2:{358:12-358:28}: warning: Pass-by-value argument in function call is undefined         CFRelease(matchingElements);         ^         ~~~~~~~~~~~~~~~~/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:327:20:{327:7-327:20}: warning: The left operand of '==' is a garbage value                 if (ioElementType==kIOHIDElementTypeInput_Button) {                          ~~~~~~~~~~~~~^6 warnings generated.6(0@40"Value stored to 'ioReturn' is never read329564481#18446744073709551615#0#1(21@40"Value stored to 'ioReturn' is never read329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#285#2#0#0#0"1(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#285#11#285#69#40"Value stored to 'ioReturn' is never read6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#285#2#0#0#10"Dead store0(15"Dead assignment0@43"Value stored to 'arrayLength' is never read329564481#18446744073709551615#0#1(21@43"Value stored to 'arrayLength' is never read329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#314#2#0#0#0"1(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#314#14#314#46#43"Value stored to 'arrayLength' is never read6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#314#2#0#0#10"Dead store0(15"Dead assignment0@43"The left operand of '==' is a garbage value329564481#18446744073709551615#0#9(17@0"329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#0"0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#1(3@6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#231#2#231#2#6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#247#2#247#31#21@58"Variable 'ioElementType' declared without an initial value329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#247#2#0#0#0"1(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#247#2#247#31#58"Variable 'ioElementType' declared without an initial value17@0"329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#0"0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#1(3@6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#247#2#247#31#6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#294#2#294#2#17@0"329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#0"0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#1(3@6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#294#2#294#2#6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#296#3#296#3#17@0"329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#0"0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#1(3@6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#296#3#296#3#6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#318#2#318#2#17@0"329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#0"0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#1(3@6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#318#2#318#2#6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#321#3#321#3#17@0"329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#0"0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#1(3@6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#321#3#321#3#6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#327#3#327#3#17@0"329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#0"0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#1(3@6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#327#3#327#3#6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#327#7#327#7#21@43"The left operand of '==' is a garbage value329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#327#7#0#0#0"1(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#327#7#327#19#43"The left operand of '==' is a garbage value6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#327#7#0#0#11"Logic error0(43"Result of operation is garbage or undefined0@40"Value stored to 'ioReturn' is never read329564481#18446744073709551615#0#1(21@40"Value stored to 'ioReturn' is never read329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#334#4#0#0#0"1(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#334#13#341#29#40"Value stored to 'ioReturn' is never read6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#334#4#0#0#10"Dead store0(15"Dead assignment0@40"Value stored to 'ioReturn' is never read329564481#18446744073709551615#0#1(21@40"Value stored to 'ioReturn' is never read329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#356#2#0#0#0"1(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#356#11#356#65#40"Value stored to 'ioReturn' is never read6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#356#2#0#0#10"Dead store0(15"Dead assignment0@52"Pass-by-value argument in function call is undefined329564481#18446744073709551615#0#4(17@0"329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#0"0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#1(3@6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#231#2#231#2#6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#294#2#294#2#17@0"329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#0"0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#1(3@6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#294#2#294#2#6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#354#2#354#2#17@0"329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#0"0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#0#0#0#0#1(3@6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#354#2#354#2#6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#358#2#358#28#21@52"Pass-by-value argument in function call is undefined329564481#18446744073709551615#0#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#358#2#0#0#0"1(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#358#12#358#27#52"Pass-by-value argument in function call is undefined6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329563325#358#2#0#0#11"Logic error0(52"Pass-by-value argument in function call is undefined0#0#54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c8624893824#1549"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/ioHIDFunctions-generated-files.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/ioHIDFunctions-own-target-headers.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/ioHIDFunctions-all-target-headers.hmap -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/ioHIDFunctions-project-headers.hmap -F/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/Debug -I/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/Debug/include -I/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/DerivedSources/x86_64 -I/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/DerivedSources --analyze /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c -o /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/StaticAnalyzer/normal/x86_64/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies340478108#340478108#0(0"0(0#1#0"8615721312#0"0#
+
+CCompileC build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/main.o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s340478103.073795
+e340478103.807690
+r1
+xCompileC
+xbuild/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/main.o
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c: In function 'theInputReportCallback':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c:250: warning: unused variable 'counter'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c: In function 'main':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c:1104: warning: passing argument 2 of 'CFSetGetValues' from incompatible pointer type
+lSLF07#2@59"Compile /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c340478103#340478103#0(393"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c: In function 'theInputReportCallback':/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c:250: warning: unused variable 'counter'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c: In function 'main':/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c:1104: warning: passing argument 2 of 'CFSetGetValues' from incompatible pointer type2(22@25"Unused variable 'counter'340478103#91#92#0(6@51"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c340478102#250#0#250#0#19"unused variable '*'0(22@69"Passing argument 2 of 'CFSetGetValues' from incompatible pointer type340478103#256#137#0(6@51"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c340478102#1104#0#1104#0#56"passing argument * of '*' from incompatible pointer type0(0#0#51"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c8644158912#1555"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/ioHIDFunctions-generated-files.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/ioHIDFunctions-own-target-headers.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/ioHIDFunctions-all-target-headers.hmap -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/ioHIDFunctions-project-headers.hmap -F/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/Debug/include -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/DerivedSources/x86_64 -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/DerivedSources -c /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/main.c -o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/main.o /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s329677531.643135
+e329677531.728312
+r1
+xCompileC
+xbuild/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/main.o
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#329677531#0(2576"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c: In function 'theReportCallback':/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:42: warning: format '%d' expects type 'int', but argument 2 has type 'CFIndex'/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c: In function 'theValueCallback':/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:58: warning: format '%s' expects type 'char *', but argument 2 has type 'struct buttonID'/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:61: warning: format '%d' expects type 'int', but argument 2 has type 'CFIndex'/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c: In function 'theInputReportCallback':/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:73: warning: format '%d' expects type 'int', but argument 2 has type 'CFIndex'/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c: In function 'showElementDetails':/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:106: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:107: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:89: warning: unused variable 'numberOfChildren'/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:87: warning: unused variable 'ioCollectionType'/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:86: warning: unused variable 'ioElementType'/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c: In function 'drillCollection':/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:215: warning: assignment discards qualifiers from pointer target type/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:183: warning: unused variable 'ioReturn'/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c: In function 'main':/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:295: warning: passing argument 2 of 'CFSetGetValues' from incompatible pointer type/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:302: warning: format '%d' expects type 'int', but argument 2 has type 'long unsigned int'/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:302: warning: too few arguments for format/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:310: warning: pointer targets in passing argument 2 of 'IOHIDDeviceRegisterInputReportCallback' differ in signedness/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c:335: warning: pointer targets in passing argument 4 of 'IOHIDDeviceSetReport' differ in signedness16(22@65"Format '%d' expects type 'int', but argument 2 has type 'CFIndex'329677531#89#134#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#42#0#42#0#56"format '*' expects type '*', but argument * has type '*'0(22@76"Format '%s' expects type 'char *', but argument 2 has type 'struct buttonID'329677531#311#145#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#58#0#58#0#56"format '*' expects type '*', but argument * has type '*'0(22@65"Format '%d' expects type 'int', but argument 2 has type 'CFIndex'329677531#456#134#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#61#0#61#0#56"format '*' expects type '*', but argument * has type '*'0(22@65"Format '%d' expects type 'int', but argument 2 has type 'CFIndex'329677531#684#134#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#73#0#73#0#56"format '*' expects type '*', but argument * has type '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'329677531#908#135#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#106#0#106#0#56"format '*' expects type '*', but argument * has type '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'329677531#1043#135#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#107#0#107#0#56"format '*' expects type '*', but argument * has type '*'0(22@34"Unused variable 'numberOfChildren'329677531#1178#103#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#89#0#89#0#19"unused variable '*'0(22@34"Unused variable 'ioCollectionType'329677531#1281#103#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#87#0#87#0#19"unused variable '*'0(22@31"Unused variable 'ioElementType'329677531#1384#100#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#86#0#86#0#19"unused variable '*'0(22@55"Assignment discards qualifiers from pointer target type329677531#1571#125#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#215#0#215#0#55"assignment discards qualifiers from pointer target type0(22@26"Unused variable 'ioReturn'329677531#1696#96#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#183#0#183#0#19"unused variable '*'0(22@69"Passing argument 2 of 'CFSetGetValues' from incompatible pointer type329677531#1868#139#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#295#0#295#0#56"passing argument * of '*' from incompatible pointer type0(22@75"Format '%d' expects type 'int', but argument 2 has type 'long unsigned int'329677531#2007#145#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#302#0#302#0#56"format '*' expects type '*', but argument * has type '*'0(22@28"Too few arguments for format329677531#2152#98#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#302#0#302#0#0"0(22@102"Pointer targets in passing argument 2 of 'IOHIDDeviceRegisterInputReportCallback' differ in signedness329677531#2250#172#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#310#0#310#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@84"Pointer targets in passing argument 4 of 'IOHIDDeviceSetReport' differ in signedness329677531#2422#154#0(6@54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c329677531#335#0#335#0#65"pointer targets in passing argument * of '*' differ in signedness0(0#0#54"/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c8658936000#1495"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/ioHIDFunctions-generated-files.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/ioHIDFunctions-own-target-headers.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/ioHIDFunctions-all-target-headers.hmap -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/ioHIDFunctions-project-headers.hmap -F/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/Debug -I/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/Debug/include -I/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/DerivedSources/x86_64 -I/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/DerivedSources -c /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/main.c -o /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/main.o /Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s339531807.400302
+e339531808.312876
+r1
+xCompileC
+xbuild/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/main.o
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c: In function 'myCFTimerCallback':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:85: warning: unused variable 'ioReturn'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c: In function 'theReportCallback':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:123: warning: unused variable 'ioReturn'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c: In function 'theValueCallback':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:158: warning: assignment discards qualifiers from pointer target type
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:160: warning: format '%d' expects type 'int', but argument 2 has type 'CFIndex'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c: In function 'theInputReportCallback':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:172: warning: unused variable 'value'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c: In function 'showElementDetails':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:251: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:252: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:234: warning: unused variable 'numberOfChildren'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:232: warning: unused variable 'ioCollectionType'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:231: warning: unused variable 'ioElementType'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c: In function 'drillCollection':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:366: warning: assignment discards qualifiers from pointer target type
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:334: warning: unused variable 'ioReturn'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c: In function 'main':
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:608: warning: passing argument 2 of 'CFSetGetValues' from incompatible pointer type
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:616: warning: format '%lx' expects type 'long unsigned int', but argument 3 has type 'struct __IOHIDDevice *'
+lSLF07#2@59"Compile /Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c339531807#339531808#0(2198"/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c: In function 'myCFTimerCallback':/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:85: warning: unused variable 'ioReturn'/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c: In function 'theReportCallback':/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:123: warning: unused variable 'ioReturn'/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c: In function 'theValueCallback':/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:158: warning: assignment discards qualifiers from pointer target type/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:160: warning: format '%d' expects type 'int', but argument 2 has type 'CFIndex'/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c: In function 'theInputReportCallback':/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:172: warning: unused variable 'value'/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c: In function 'showElementDetails':/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:251: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:252: warning: format '%d' expects type 'int', but argument 3 has type 'CFIndex'/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:234: warning: unused variable 'numberOfChildren'/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:232: warning: unused variable 'ioCollectionType'/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:231: warning: unused variable 'ioElementType'/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c: In function 'drillCollection':/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:366: warning: assignment discards qualifiers from pointer target type/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:334: warning: unused variable 'ioReturn'/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c: In function 'main':/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:608: warning: passing argument 2 of 'CFSetGetValues' from incompatible pointer type/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c:616: warning: format '%lx' expects type 'long unsigned int', but argument 3 has type 'struct __IOHIDDevice *'14(22@26"Unused variable 'ioReturn'339531808#86#92#0(6@51"/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c339531807#85#0#85#0#19"unused variable '*'0(22@26"Unused variable 'ioReturn'339531808#264#93#0(6@51"/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c339531807#123#0#123#0#19"unused variable '*'0(22@55"Assignment discards qualifiers from pointer target type339531808#442#122#0(6@51"/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c339531807#158#0#158#0#55"assignment discards qualifiers from pointer target type0(22@65"Format '%d' expects type 'int', but argument 2 has type 'CFIndex'339531808#564#132#0(6@51"/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c339531807#160#0#160#0#56"format '*' expects type '*', but argument * has type '*'0(22@23"Unused variable 'value'339531808#787#90#0(6@51"/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c339531807#172#0#172#0#19"unused variable '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'339531808#964#132#0(6@51"/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c339531807#251#0#251#0#56"format '*' expects type '*', but argument * has type '*'0(22@65"Format '%d' expects type 'int', but argument 3 has type 'CFIndex'339531808#1096#132#0(6@51"/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c339531807#252#0#252#0#56"format '*' expects type '*', but argument * has type '*'0(22@34"Unused variable 'numberOfChildren'339531808#1228#101#0(6@51"/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c339531807#234#0#234#0#19"unused variable '*'0(22@34"Unused variable 'ioCollectionType'339531808#1329#101#0(6@51"/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c339531807#232#0#232#0#19"unused variable '*'0(22@31"Unused variable 'ioElementType'339531808#1430#98#0(6@51"/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c339531807#231#0#231#0#19"unused variable '*'0(22@55"Assignment discards qualifiers from pointer target type339531808#1612#122#0(6@51"/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c339531807#366#0#366#0#55"assignment discards qualifiers from pointer target type0(22@26"Unused variable 'ioReturn'339531808#1734#93#0(6@51"/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c339531807#334#0#334#0#19"unused variable '*'0(22@69"Passing argument 2 of 'CFSetGetValues' from incompatible pointer type339531808#1900#136#0(6@51"/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c339531807#608#0#608#0#56"passing argument * of '*' from incompatible pointer type0(22@95"Format '%lx' expects type 'long unsigned int', but argument 3 has type 'struct __IOHIDDevice *'339531808#2036#162#0(6@51"/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c339531807#616#0#616#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#51"/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c8624946144#1462"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/ioHIDFunctions-generated-files.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/ioHIDFunctions-own-target-headers.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/ioHIDFunctions-all-target-headers.hmap -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/ioHIDFunctions-project-headers.hmap -F/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/Debug -I/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/Debug/include -I/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/DerivedSources/x86_64 -I/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/DerivedSources -c /Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/main.c -o /Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/Debug/ioHIDFunctions normal x86_64
+s340478103.807793
+e340478103.853779
+r1
+xLd
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/Debug/ioHIDFunctions
+xnormal
+xx86_64
+lSLF07#2@76"Link /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/Debug/ioHIDFunctions340478103#340478103#0(0"0(0#0#0"8603112160#734"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/Debug -F/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks -filelist /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/ioHIDFunctions.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -framework IOKit -framework AppKit -framework CoreServices -o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek/build/Debug/ioHIDFunctions0#
+
+CLd /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/Debug/ioHIDFunctions normal x86_64
+s329677531.728410
+e329677531.779917
+r1
+xLd
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/Debug/ioHIDFunctions
+xnormal
+xx86_64
+lSLF07#2@79"Link /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/Debug/ioHIDFunctions329677531#329677531#0(0"0(0#0#0"8654120896#614"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/Debug -F/Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/Debug -filelist /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/ioHIDFunctions.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -framework IOKit -o /Users/HU/Desktop/ObjectiveBasic/ioHIDFunctions/build/Debug/ioHIDFunctions0#
+
+CLd /Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/Debug/ioHIDFunctions normal x86_64
+s339531808.312977
+e339531808.545780
+r1
+xLd
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/Debug/ioHIDFunctions
+xnormal
+xx86_64
+lSLF07#2@76"Link /Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/Debug/ioHIDFunctions339531808#339531808#0(0"0(0#0#0"8672298688#599"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/Debug -F/Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/Debug -filelist /Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/ioHIDFunctions.build/Debug/ioHIDFunctions.build/Objects-normal/x86_64/ioHIDFunctions.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -framework IOKit -o /Users/HU/Desktop/ObjectiveBasic/ioHIDPenPad/build/Debug/ioHIDFunctions0#
+

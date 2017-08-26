@@ -1,0 +1,283 @@
+Thyperpen
+v7
+r0
+t342042060.389873
+cCheck dependencies
+cCompileC build/hyperpenDaemon.build/Debug/hyperpen.build/Objects-normal/x86_64/main.o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/Debug/hyperpenDaemon normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004CAA740400000000002527C8
+t1286239236
+s2435016
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004C23BF2D00000000000005FF
+t1277411117
+s1535
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C239DAB0000000000000AF4
+t1277402539
+s2804
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004CAA7404000000000001A854
+t1286239236
+s108628
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/CarbonCore.h
+c000000004C23A4E20000000000000F0C
+t1277404386
+s3852
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOBSD.h
+c000000004C23994600000000000006C2
+t1277401414
+s1730
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+c000000004C23A0120000000000012048
+t1277403154
+s73800
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/hid/IOHIDLib.h
+c000000004C23A0110000000000000609
+t1277403153
+s1545
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/hidsystem/IOHIDShared.h
+c000000004C23A32E00000000000032D7
+t1277403950
+s13015
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/serial/IOSerialKeys.h
+c000000004C239B710000000000000B28
+t1277401969
+s2856
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/usb/IOUSBLib.h
+c000000004C23BE82000000000002C29F
+t1277410946
+s180895
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004CAA7405000000000003CE34
+t1286239237
+s249396
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/errno.h
+c000000004BBD2CE900000000000003EB
+t1270689001
+s1003
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/fcntl.h
+c000000004BBD2CE900000000000003EA
+t1270689001
+s1002
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/paths.h
+c000000004BBD2CE90000000000001067
+t1270689001
+s4199
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/ioctl.h
+c000000004C239946000000000000116C
+t1277401414
+s4460
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/param.h
+c000000004C23994700000000000027BE
+t1277401415
+s10174
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/select.h
+c000000004C23994700000000000016A2
+t1277401415
+s5794
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/time.h
+c000000004C2399480000000000001E17
+t1277401416
+s7703
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sysexits.h
+c000000004BBD2CE90000000000001560
+t1270689001
+s5472
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/termios.h
+c000000004BBD2CE900000000000004D4
+t1270689001
+s1236
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E2085850000000000782350
+t1310754181
+s7873360
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/aiptek.h
+c000000004EA79C3000000000000014AE
+t1319607344
+s5294
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/Debug/hyperpenDaemon
+t1320349260
+s54192
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/Objects-normal/x86_64/hyperpenDaemon.LinkFileList
+c000000004EAEF9A4000000000000007B
+t1320090020
+s123
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/Objects-normal/x86_64/keys.o
+t2
+s0
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/Objects-normal/x86_64/main.o
+t1320349260
+s50696
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c
+c000000004EAEF8AF0000000000000098
+t1320089775
+s152
+i"keys.h"
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h
+c000000004EAEF8D000000000000011A1
+t1320089808
+s4513
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/main.c
+c000000004EB2EE410000000000009810
+t1320349249
+s38928
+i<stdio.h>
+i<string.h>
+i<unistd.h>
+i<fcntl.h>
+i<sys/ioctl.h>
+i<errno.h>
+i<paths.h>
+i<termios.h>
+i<sysexits.h>
+i<sys/param.h>
+i<sys/select.h>
+i<sys/time.h>
+i<CarbonCore/CarbonCore.h>
+i<CoreFoundation/CoreFoundation.h>
+i<Carbon/Carbon.h>
+i<IOKit/IOKitLib.h>
+i<IOKit/hid/IOHIDLib.h>
+i<IOKit/serial/IOSerialKeys.h>
+i<IOKit/IOBSD.h>
+i<IOKit/usb/IOUSBLib.h>
+i<IOKit/hidsystem/IOHIDShared.h>
+i"stylus.h"
+i"aiptek.h"
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/stylus.h
+c000000004EA2BD89000000000000129C
+t1319288201
+s4764
+
+N/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/vkeys.h
+c000000004EAD6F04000000000000150B
+t1319988996
+s5387
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies342042059#342042059#0(0"0(0#1#0"8654000256#0"0#
+
+CCompileC build/hyperpenDaemon.build/Debug/hyperpen.build/Objects-normal/x86_64/keys.o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c normal x86_64 c com.apple.compilers.gcc.4_2
+s341782756.368250
+e341782756.528190
+r0
+xCompileC
+xbuild/hyperpenDaemon.build/Debug/hyperpen.build/Objects-normal/x86_64/keys.o
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c:10:
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:13: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'gModifiers'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:15: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'get_event_driver'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:43: warning: type defaults to 'int' in declaration of 'UInt8'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:43: error: expected ';', ',' or ')' before 'virtualKeyCode'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:95: warning: type defaults to 'int' in declaration of 'UInt8'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:95: error: expected ';', ',' or ')' before 'virtualKeyCode'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:100: warning: type defaults to 'int' in declaration of 'UInt8'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:100: error: expected ';', ',' or ')' before 'virtualKeyCode'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:105: warning: type defaults to 'int' in declaration of 'UInt8'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:105: error: expected ';', ',' or ')' before 'specialKeyCode'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:125: warning: type defaults to 'int' in declaration of 'UInt8'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:125: error: expected ';', ',' or ')' before 'specialKeyCode'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:130: warning: type defaults to 'int' in declaration of 'UInt8'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:130: error: expected ';', ',' or ')' before 'specialKeyCode'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:135: warning: type defaults to 'int' in declaration of 'UInt8'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:135: error: expected ';', ',' or ')' before 'sysKeyCode'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:150: warning: type defaults to 'int' in declaration of 'UInt8'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:150: error: expected ';', ',' or ')' before 'auxKeyCode'
+oIn file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c:10:
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:168:5: warning: missing terminating ' character
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:168: error: missing terminating ' character
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:170: error: 'BEGIN' undeclared here (not in a function)
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:171: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'HIDPostSysDefinedKey'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:172: warning: data definition has no type or storage class
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:172: warning: type defaults to 'int' in declaration of 'HIDPostAuxKey'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:172: warning: parameter names (without types) in function declaration
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:173: warning: data definition has no type or storage class
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:173: warning: type defaults to 'int' in declaration of 'HIDPostAuxKey'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:173: warning: parameter names (without types) in function declaration
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:174: warning: data definition has no type or storage class
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:174: warning: type defaults to 'int' in declaration of 'HIDPostAuxKey'
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:174: warning: parameter names (without types) in function declaration
+o/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:175: error: expected identifier or '(' before '[' token
+lSLF07#2@60"Compile /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#341782756#0(3895"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c:10:/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:13: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'gModifiers'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:15: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'get_event_driver'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:43: warning: type defaults to 'int' in declaration of 'UInt8'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:43: error: expected ';', ',' or ')' before 'virtualKeyCode'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:95: warning: type defaults to 'int' in declaration of 'UInt8'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:95: error: expected ';', ',' or ')' before 'virtualKeyCode'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:100: warning: type defaults to 'int' in declaration of 'UInt8'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:100: error: expected ';', ',' or ')' before 'virtualKeyCode'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:105: warning: type defaults to 'int' in declaration of 'UInt8'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:105: error: expected ';', ',' or ')' before 'specialKeyCode'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:125: warning: type defaults to 'int' in declaration of 'UInt8'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:125: error: expected ';', ',' or ')' before 'specialKeyCode'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:130: warning: type defaults to 'int' in declaration of 'UInt8'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:130: error: expected ';', ',' or ')' before 'specialKeyCode'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:135: warning: type defaults to 'int' in declaration of 'UInt8'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:135: error: expected ';', ',' or ')' before 'sysKeyCode'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:150: warning: type defaults to 'int' in declaration of 'UInt8'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:150: error: expected ';', ',' or ')' before 'auxKeyCode'In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c:10:/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:168:5: warning: missing terminating ' character/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:168: error: missing terminating ' character/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:170: error: 'BEGIN' undeclared here (not in a function)/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:171: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'HIDPostSysDefinedKey'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:172: warning: data definition has no type or storage class/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:172: warning: type defaults to 'int' in declaration of 'HIDPostAuxKey'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:172: warning: parameter names (without types) in function declaration/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:173: warning: data definition has no type or storage class/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:173: warning: type defaults to 'int' in declaration of 'HIDPostAuxKey'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:173: warning: parameter names (without types) in function declaration/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:174: warning: data definition has no type or storage class/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:174: warning: type defaults to 'int' in declaration of 'HIDPostAuxKey'/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:174: warning: parameter names (without types) in function declaration/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h:175: error: expected identifier or '(' before '[' token32(4@68"Expected '=', ',', ';', 'asm' or '__attribute__' before 'gModifiers'341782756#79#133#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@124"Expected '=', ',', ';', 'asm' or '__attribute__' before 'gModifiers' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#13#0#13#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#13#0#13#0#19"expected * before *0(4@74"Expected '=', ',', ';', 'asm' or '__attribute__' before 'get_event_driver'341782756#212#139#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@130"Expected '=', ',', ';', 'asm' or '__attribute__' before 'get_event_driver' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#15#0#15#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#15#0#15#0#19"expected * before *0(22@48"Type defaults to 'int' in declaration of 'UInt8'341782756#351#115#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@104"Type defaults to 'int' in declaration of 'UInt8' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#43#0#43#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#43#0#43#0#42"type defaults to '*' in declaration of '*'0(4@48"Expected ';', ',' or ')' before 'virtualKeyCode'341782756#466#113#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@104"Expected ';', ',' or ')' before 'virtualKeyCode' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#43#0#43#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#43#0#43#0#19"expected * before *0(22@48"Type defaults to 'int' in declaration of 'UInt8'341782756#579#115#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@104"Type defaults to 'int' in declaration of 'UInt8' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#95#0#95#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#95#0#95#0#42"type defaults to '*' in declaration of '*'0(4@48"Expected ';', ',' or ')' before 'virtualKeyCode'341782756#694#113#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@104"Expected ';', ',' or ')' before 'virtualKeyCode' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#95#0#95#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#95#0#95#0#19"expected * before *0(22@48"Type defaults to 'int' in declaration of 'UInt8'341782756#807#116#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@104"Type defaults to 'int' in declaration of 'UInt8' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#100#0#100#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#100#0#100#0#42"type defaults to '*' in declaration of '*'0(4@48"Expected ';', ',' or ')' before 'virtualKeyCode'341782756#923#114#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@104"Expected ';', ',' or ')' before 'virtualKeyCode' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#100#0#100#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#100#0#100#0#19"expected * before *0(22@48"Type defaults to 'int' in declaration of 'UInt8'341782756#1037#116#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@104"Type defaults to 'int' in declaration of 'UInt8' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#105#0#105#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#105#0#105#0#42"type defaults to '*' in declaration of '*'0(4@48"Expected ';', ',' or ')' before 'specialKeyCode'341782756#1153#114#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@104"Expected ';', ',' or ')' before 'specialKeyCode' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#105#0#105#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#105#0#105#0#19"expected * before *0(22@48"Type defaults to 'int' in declaration of 'UInt8'341782756#1267#116#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@104"Type defaults to 'int' in declaration of 'UInt8' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#125#0#125#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#125#0#125#0#42"type defaults to '*' in declaration of '*'0(4@48"Expected ';', ',' or ')' before 'specialKeyCode'341782756#1383#114#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@104"Expected ';', ',' or ')' before 'specialKeyCode' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#125#0#125#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#125#0#125#0#19"expected * before *0(22@48"Type defaults to 'int' in declaration of 'UInt8'341782756#1497#116#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@104"Type defaults to 'int' in declaration of 'UInt8' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#130#0#130#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#130#0#130#0#42"type defaults to '*' in declaration of '*'0(4@48"Expected ';', ',' or ')' before 'specialKeyCode'341782756#1613#114#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@104"Expected ';', ',' or ')' before 'specialKeyCode' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#130#0#130#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#130#0#130#0#19"expected * before *0(22@48"Type defaults to 'int' in declaration of 'UInt8'341782756#1727#116#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@104"Type defaults to 'int' in declaration of 'UInt8' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#135#0#135#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#135#0#135#0#42"type defaults to '*' in declaration of '*'0(4@44"Expected ';', ',' or ')' before 'sysKeyCode'341782756#1843#110#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@100"Expected ';', ',' or ')' before 'sysKeyCode' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#135#0#135#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#135#0#135#0#19"expected * before *0(22@48"Type defaults to 'int' in declaration of 'UInt8'341782756#1953#116#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@104"Type defaults to 'int' in declaration of 'UInt8' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#150#0#150#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#150#0#150#0#42"type defaults to '*' in declaration of '*'0(4@44"Expected ';', ',' or ')' before 'auxKeyCode'341782756#2069#110#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@100"Expected ';', ',' or ')' before 'auxKeyCode' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#150#0#150#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#150#0#150#0#19"expected * before *0(22@31"Missing terminating ' character341782756#2258#101#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@87"Missing terminating ' character in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#168#0#168#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#168#0#168#0#0"0(4@31"Missing terminating ' character341782756#2359#97#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@87"Missing terminating ' character in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#168#0#168#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#168#0#168#0#0"0(4@43"'BEGIN' undeclared here (not in a function)341782756#2456#109#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@99"'BEGIN' undeclared here (not in a function) in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#170#0#170#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#170#0#170#0#39"'*' undeclared here (not in a function)0(4@78"Expected '=', ',', ';', 'asm' or '__attribute__' before 'HIDPostSysDefinedKey'341782756#2565#144#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@134"Expected '=', ',', ';', 'asm' or '__attribute__' before 'HIDPostSysDefinedKey' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#171#0#171#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#171#0#171#0#19"expected * before *0(22@44"Data definition has no type or storage class341782756#2709#112#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@100"Data definition has no type or storage class in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#172#0#172#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#172#0#172#0#44"data definition has no type or storage class0(22@56"Type defaults to 'int' in declaration of 'HIDPostAuxKey'341782756#2821#124#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@112"Type defaults to 'int' in declaration of 'HIDPostAuxKey' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#172#0#172#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#172#0#172#0#42"type defaults to '*' in declaration of '*'0(22@55"Parameter names (without types) in function declaration341782756#2945#123#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@111"Parameter names (without types) in function declaration in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#172#0#172#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#172#0#172#0#0"0(22@44"Data definition has no type or storage class341782756#3068#112#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@100"Data definition has no type or storage class in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#173#0#173#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#173#0#173#0#44"data definition has no type or storage class0(22@56"Type defaults to 'int' in declaration of 'HIDPostAuxKey'341782756#3180#124#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@112"Type defaults to 'int' in declaration of 'HIDPostAuxKey' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#173#0#173#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#173#0#173#0#42"type defaults to '*' in declaration of '*'0(22@55"Parameter names (without types) in function declaration341782756#3304#123#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@111"Parameter names (without types) in function declaration in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#173#0#173#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#173#0#173#0#0"0(22@44"Data definition has no type or storage class341782756#3427#112#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@100"Data definition has no type or storage class in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#174#0#174#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#174#0#174#0#44"data definition has no type or storage class0(22@56"Type defaults to 'int' in declaration of 'HIDPostAuxKey'341782756#3539#124#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@112"Type defaults to 'int' in declaration of 'HIDPostAuxKey' in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#174#0#174#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#174#0#174#0#42"type defaults to '*' in declaration of '*'0(22@55"Parameter names (without types) in function declaration341782756#3663#123#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@111"Parameter names (without types) in function declaration in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#174#0#174#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#174#0#174#0#0"0(4@43"Expected identifier or '(' before '[' token341782756#3786#109#2(7@74"In file included from /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c341782575#10#0#10#0#0"0(13@99"Expected identifier or '(' before '[' token in /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782756#18446744073709551615#0#0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#175#0#175#0#0"0(6@52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.h341782608#175#0#175#0#19"expected * before *0(0#0#52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c8604539360#1556"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -gstabs+ -feliminate-unused-debug-symbols -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/hyperpenDaemon-generated-files.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/hyperpenDaemon-own-target-headers.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/hyperpenDaemon-all-target-headers.hmap -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/hyperpenDaemon-project-headers.hmap -F/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/Debug/include -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/DerivedSources/x86_64 -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/DerivedSources -c /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/keys.c -o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/Objects-normal/x86_64/keys.o1#
+
+CCompileC build/hyperpenDaemon.build/Debug/hyperpen.build/Objects-normal/x86_64/main.o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s342042059.525631
+e342042060.205529
+r1
+xCompileC
+xbuild/hyperpenDaemon.build/Debug/hyperpen.build/Objects-normal/x86_64/main.o
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/main.c342042059#342042060#0(0"0(0#0#52"/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/main.c8652076192#1556"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -gstabs+ -feliminate-unused-debug-symbols -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/hyperpenDaemon-generated-files.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/hyperpenDaemon-own-target-headers.hmap -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/hyperpenDaemon-all-target-headers.hmap -iquote /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/hyperpenDaemon-project-headers.hmap -F/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/Debug/include -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/DerivedSources/x86_64 -I/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/DerivedSources -c /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/main.c -o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/Debug/hyperpenDaemon normal x86_64
+s342042060.205632
+e342042060.389812
+r1
+xLd
+x/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/Debug/hyperpenDaemon
+xnormal
+xx86_64
+lSLF07#2@77"Link /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/Debug/hyperpenDaemon342042060#342042060#0(0"0(0#0#0"8648145856#733"    cd /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/Debug -F/Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks -filelist /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/hyperpenDaemon.build/Debug/hyperpen.build/Objects-normal/x86_64/hyperpenDaemon.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -framework IOKit -framework AppKit -framework CoreServices -o /Users/HU/Desktop/ObjectiveBasic/ioHIDAiptek3/build/Debug/hyperpenDaemon0#
+
